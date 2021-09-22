@@ -13,7 +13,7 @@ import lombok.ToString;
 @Setter
 @ToString
 @NoArgsConstructor
-public class Beer {
+public class Book {
 
     @Id
     @GeneratedValue
@@ -21,7 +21,7 @@ public class Beer {
 
     private String name;
 
-    public Beer(String name) {
+    public Book(String name) {
         this.name = name;
     }
 }

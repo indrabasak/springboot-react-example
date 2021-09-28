@@ -121,7 +121,7 @@ This Recat application makes a call to the `books` endpoint, as mentioned earlie
 in the `server` module.
 
 ### Run
-To the run the React applicition, navigate to the `client` directory and
+To the run the React application, navigate to the `client` directory and
 execute `npm start`,
 
 ```

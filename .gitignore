@@ -33,3 +33,5 @@ build/
 .vscode/
 
 .mvn
+
+package-lock.json
